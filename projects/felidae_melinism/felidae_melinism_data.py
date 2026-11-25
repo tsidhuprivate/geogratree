@@ -2,8 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
-TRAITS_CSV = REPO_ROOT / "data" / "PHYLACINE_1.2" / "Data" / "Traits" / "Trait_data.csv"
+TRAITS_CSV = Path(__file__).resolve().parents[2] / "data" / "PHYLACINE_1.2" / "Data" / "Traits" / "Trait_data.csv"
 EXTINCT_STATUSES = ["EP", "EX", "EW"]
 
 
