@@ -1,0 +1,9 @@
+Species,Gene,Mutation,Inheritance,Source
+Leopard,ASIP,C333A (creates an early stop signal),Recessive,Schneider et al. 2012
+Asian golden cat,ASIP,C384G (Cys128Trp),Recessive,Schneider et al. 2012
+Domestic cat,ASIP,2 bp deletion,Recessive,Eizirik et al. 2003
+Pampas cat,ASIP,R120C,Recessive,Schneider et al. 2015
+Kodkod,ASIP,C126Y,Recessive,Schneider et al. 2015
+Jaguar,MC1R,In-frame deletion,Dominant,Eizirik et al. 2003
+Jaguarundi,MC1R,In-frame deletion (not the same as the jaguar's),Dominant,Eizirik et al. 2003
+Geoffroy's cat,MC1R,C125R (plus two linked variants),Dominant,Schneider et al. 2015
