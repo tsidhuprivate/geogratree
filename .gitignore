@@ -225,3 +225,4 @@ __marimo__/
 # External-source data (kept local, not committed)
 data/*
 !data/README.md
+!data/PHYLACINE_1.2
